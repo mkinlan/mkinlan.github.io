@@ -1654,4 +1654,7 @@ button {
   max-width:200px;
   
 }
+.image1 {
+  max-width: 100%;
+}
 .description{padding:10px;}
