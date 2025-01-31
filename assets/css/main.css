@@ -1652,6 +1652,7 @@ button {
  /* flex-basis: 40%;*/
   display:flex;
   max-width:200px;
+  max-height:300px;
   
 }
 .image1 {
