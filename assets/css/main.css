@@ -1652,7 +1652,6 @@ button {
  /* flex-basis: 40%;*/
   display:flex;
   max-width:200px;
-  margin:auto;
-  align-items:center;
+  
 }
 .description{padding:10px;}
